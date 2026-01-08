@@ -1,10 +1,3 @@
-Here’s a **professional and detailed `README.md`** perfectly tailored for your **SocialSphere – Facebook-like Social Media Web App** project, ideal for a GitHub repository.
-
-You can directly copy-paste this into your repo’s `README.md` file — it includes full setup, explanation, tech stack, screenshots placeholders, and contribution guidelines.
-
----
-
-```markdown
 # 🌐 SocialSphere – A Facebook-like Social Media Web App
 
 ### 🧠 Overview
@@ -12,8 +5,6 @@ You can directly copy-paste this into your repo’s `README.md` file — it incl
 It allows users to **register, log in, create posts, view posts, and comment** on other users’ posts — mimicking a minimal version of Facebook.
 
 This project demonstrates **core Java EE concepts**, **MVC architecture**, and **object-oriented design principles** (Encapsulation, Abstraction, Inheritance, Polymorphism).
-
----
 
 ## 🚀 Features
 
@@ -25,11 +16,7 @@ This project demonstrates **core Java EE concepts**, **MVC architecture**, and *
 ✅ **Session Management** – Only logged-in users can create or comment.  
 ✅ **Lightweight UI** – Simple HTML and JSP-based interface (no CSS/JS).  
 
----
-
 ## 🏗️ Project Architecture (MVC Pattern)
-
-```
 
 #📦 SocialSphere
 - ┣ 📂 src
@@ -50,10 +37,6 @@ This project demonstrates **core Java EE concepts**, **MVC architecture**, and *
 - ┃ ┗ 📜 pom.xml              Maven dependencies and project configuration
 - ┗ 📂 target                 Compiled WAR file output
 
-````
-
----
-
 ## 🧰 Tech Stack
 
 | Layer | Technology Used |
@@ -65,8 +48,6 @@ This project demonstrates **core Java EE concepts**, **MVC architecture**, and *
 | **Server** | Apache Tomcat |
 | **Build Tool** | Maven |
 | **Language** | Java 8+ |
-
----
 
 ## ⚙️ Installation and Setup
 
