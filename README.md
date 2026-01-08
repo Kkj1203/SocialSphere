@@ -31,24 +31,24 @@ This project demonstrates **core Java EE concepts**, **MVC architecture**, and *
 
 ```
 
-📦 SocialSphere
-┣ 📂 src
-┃ ┣ 📂 main
-┃ ┃ ┣ 📂 java
-┃ ┃ ┃ ┣ 📂 dao              # DAO interfaces
-┃ ┃ ┃ ┣ 📂 daoImpl          # DAO implementation classes
-┃ ┃ ┃ ┣ 📂 model            # Encapsulated data models (User, Post, Comment)
-┃ ┃ ┃ ┣ 📂 servlets         # Controller layer handling requests
-┃ ┃ ┃ ┗ 📂 util             # Database connection utility
-┃ ┃ ┣ 📂 webapp
-┃ ┃ ┃ ┣ 📜 index.jsp        # Entry point
-┃ ┃ ┃ ┣ 📜 login.jsp        # Login page
-┃ ┃ ┃ ┣ 📜 register.jsp     # Registration page
-┃ ┃ ┃ ┣ 📜 home.jsp         # Main homepage displaying posts/comments
-┃ ┃ ┃ ┣ 📜 createPost.jsp   # Create new post page
-┃ ┃ ┃ ┗ 📜 WEB-INF/web.xml  # Deployment descriptor (if applicable)
-┃ ┗ 📜 pom.xml              # Maven dependencies and project configuration
-┗ 📂 target                 # Compiled WAR file output
+#📦 SocialSphere
+- ┣ 📂 src
+- ┃ ┣ 📂 main
+- ┃ ┃ ┣ 📂 java
+- ┃ ┃ ┃ ┣ 📂 dao              DAO interfaces
+- ┃ ┃ ┃ ┣ 📂 daoImpl          DAO implementation classes
+- ┃ ┃ ┃ ┣ 📂 model            Encapsulated data models (User, Post, Comment)
+- ┃ ┃ ┃ ┣ 📂 servlets         Controller layer handling requests
+- ┃ ┃ ┃ ┗ 📂 util             Database connection utility
+- ┃ ┃ ┣ 📂 webapp
+- ┃ ┃ ┃ ┣ 📜 index.jsp        Entry point
+- ┃ ┃ ┃ ┣ 📜 login.jsp        Login page
+- ┃ ┃ ┃ ┣ 📜 register.jsp     Registration page
+- ┃ ┃ ┃ ┣ 📜 home.jsp         Main homepage displaying posts/comments
+- ┃ ┃ ┃ ┣ 📜 createPost.jsp   Create new post page
+- ┃ ┃ ┃ ┗ 📜 WEB-INF/web.xml  Deployment descriptor (if applicable)
+- ┃ ┗ 📜 pom.xml              Maven dependencies and project configuration
+- ┗ 📂 target                 Compiled WAR file output
 
 ````
 
